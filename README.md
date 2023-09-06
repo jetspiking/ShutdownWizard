@@ -1,5 +1,6 @@
 # ShutdownWizard
 <img src="https://github.com/jetspiking/ShutdownWizard/blob/main/Images/ShutdownWizard.png">
+<img src="https://github.com/jetspiking/ShutdownWizard/blob/main/Images/ShutdownDialog.png">
 
 Classic shutdown wizard dialog opener for Windows. 
 
